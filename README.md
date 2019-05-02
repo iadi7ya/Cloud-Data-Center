@@ -7,6 +7,6 @@ This project is consists of three main modules:
 
 - Infrastructure as a service (IaaS): Using this module user can create their own virtual machine by just submitting their hardware requirements through html forms.
 
-- Storage as a service (StaaS): This module serves web based cloud storage service. This module some offers unique feature of its kind like, It provides users both the features Object Storage as well as Block Storage.
+- Storage as a service (StaaS): This module serves web based cloud storage service. This module offers some unique feature of its kind like, It provides users both the features Object Storage as well as Block Storage.
 
 - Software as a Service (SaaS): This module provides One Click access to many softwares and tools without installing them on client side. It is same like other online software apps.
