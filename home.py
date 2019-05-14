@@ -31,7 +31,7 @@ if user :
 
   print "<br/><br/>"
   print "<p><center>Your Available Services are : <br/><br/></p> "
-  print "<a href='saashome.py' id='saas' name='saas'>Software As A Service</a>&nbsp;&nbsp;"
+  print "<a href='saashome.py' id='saas' name='saas'>Software as a Service</a>&nbsp;&nbsp;"
   print "<a href='objfirst.py' id='obj' name='obj'>Object Storage</a>&nbsp;&nbsp;"
   print "<a href='blfirst.py' id='block' name='block'>Block Storage</a>&nbsp;&nbsp;"
   #print "<a href='iaashome.py' id='iaas' name='iaas'>Infrastructure As A Service</a></center>"
