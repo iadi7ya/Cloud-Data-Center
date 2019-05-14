@@ -19,7 +19,7 @@ print "</head>"
 print "<body onload='noBack();' onpageshow='if (event.persisted)noBack();' onunload=''>"
 
 print "<div id='header' style='height:50px; background-color:orange;'>"
-print "<span style='font-size:30px;'><center>SRMS CLOUD SERVICES</center></span>"
+print "<span style='font-size:35px;'><center>SRMS CLOUD SERVICES</center></span>"
 print "</div>"
 print "<div id='body'>"
 print "<div id='body1'>"
@@ -35,7 +35,7 @@ print "<tr><td colspan='2'><input type='submit' name='Submit' value='Login' /></
 
 print "</form>"
 
-print "<a href='cpass.py' id='cpass' name='cpass'>Forgot your password ?</a><br/>"
+print "<a href='cpass.py' id='cpass' name='cpass'>Forgot your password?</a><br/>"
 
 
 print "</div>"
