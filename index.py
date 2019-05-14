@@ -19,7 +19,7 @@ print "</head>"
 print "<body onload='noBack();' onpageshow='if (event.persisted)noBack();' onunload=''>"
 
 print "<div id='header' style='height:50px; background-color:orange;'>"
-print "<span style='font-size:35px;'><center>SRMS CLOUD SERVICES</center></span>"
+print "<span style='font-size:35px;'><center>SRMS Cloud Services</center></span>"
 print "</div>"
 print "<div id='body'>"
 print "<div id='body1'>"
